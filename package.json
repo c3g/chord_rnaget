@@ -1,0 +1,24 @@
+{
+  "name": "chord_rnaget",
+  "version": "0.2.0",
+  "description": "RNAGet service for the CHORD project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "bin": {
+    "chord-rnaget": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c3g/chord_rnaget.git"
+  },
+  "author": "David Lougheed <david.lougheed@mail.mcgill.ca>",
+  "license": "LGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/c3g/chord_rnaget/issues"
+  },
+  "homepage": "https://github.com/c3g/chord_rnaget#readme",
+  "dependencies": {}
+}
